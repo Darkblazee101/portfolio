@@ -38,7 +38,7 @@
 }
 @media screen and (max-width:600px) {
     .navLinks {
-        font-size: 10px;
+        font-size: 5px;
     }
 }
 
@@ -115,5 +115,6 @@
         width: 300px;
     }
 }
+
 
 
